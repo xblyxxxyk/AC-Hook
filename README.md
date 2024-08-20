@@ -29,3 +29,5 @@ tbd:
 [+] Code is written mixedcase. You can change it to camel/pascal if that is a problem.
 
 [+] Player struct returns some invalid values. IsBadReadPtr is used to get around this, however it would be advised to fix the struct manually.
+
+[+] Change menu style and add new exploits.
