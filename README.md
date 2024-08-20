@@ -10,29 +10,6 @@ Updated to the latest version (1.3.0.2)
 
 Use Process Hacker to inject, compile Release x86
 
-Features:
-
-[+] Aimbot
-
-[+] Fov Circle/Size
-
-[+] Box ESP
-
-[+] Name ESP
-
-[+] Radar ESP
-
-[+] Minimap ESP
-
-[+] Rapid Fire
-
-[+] No Spread
-
-[+] Infinite Ammo
-
-[+] Infinite Health
-
-[+] Unload Dll
 
 ![image](https://github.com/user-attachments/assets/9b210875-7eaf-40a3-b82a-349915ac7e07)
 
