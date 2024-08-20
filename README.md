@@ -1,6 +1,6 @@
 Assault Cube Internal cheat written in C++.
 
-Open Source, Pull requests are accepted.
+Open Source, Pull requests are welcome.
 
 ESP Drawn on ImGui.
 
