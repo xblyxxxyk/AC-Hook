@@ -2,7 +2,7 @@ Assault Cube Internal cheat written in C++.
 
 Open Source, Pull requests are welcome.
 
-ESP Drawn on ImGui.
+ESP Drawn on ImGui, using KieroHook.
 
 
 Updated to the latest version (1.3.0.2)
