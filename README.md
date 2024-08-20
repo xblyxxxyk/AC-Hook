@@ -1,5 +1,6 @@
 Assault Cube Internal cheat written in C++.
 
+Open Source, Pull requests are accepted.
 
 ESP Drawn on ImGui.
 
@@ -34,4 +35,11 @@ Features:
 [+] Unload Dll
 
 ![image](https://github.com/user-attachments/assets/9b210875-7eaf-40a3-b82a-349915ac7e07)
+
+
+
+tbd:
+
+[+] Add Aimbot Smoothing
+[+] 
 
