@@ -1,0 +1,141 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Filter Include="Pliki źródłowe">
+      <UniqueIdentifier>{4FC737F1-C7A5-4376-A066-2A32D752A2FF}</UniqueIdentifier>
+      <Extensions>cpp;c;cc;cxx;c++;cppm;ixx;def;odl;idl;hpj;bat;asm;asmx</Extensions>
+    </Filter>
+    <Filter Include="Pliki nagłówkowe">
+      <UniqueIdentifier>{93995380-89BD-4b04-88EB-625FBE52EBFB}</UniqueIdentifier>
+      <Extensions>h;hh;hpp;hxx;h++;hm;inl;inc;ipp;xsd</Extensions>
+    </Filter>
+    <Filter Include="Pliki zasobów">
+      <UniqueIdentifier>{67DA6AB6-F800-4c08-8B7A-83BB121AAD01}</UniqueIdentifier>
+      <Extensions>rc;ico;cur;bmp;dlg;rc2;rct;bin;rgs;gif;jpg;jpeg;jpe;resx;tiff;tif;png;wav;mfcribbon-ms</Extensions>
+    </Filter>
+    <Filter Include="include">
+      <UniqueIdentifier>{7079108a-557e-4175-ae92-2673ba0863c6}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="include\imgui">
+      <UniqueIdentifier>{fc0cfdcb-d090-401b-9528-f7f2f3724e7a}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="include\kiero">
+      <UniqueIdentifier>{db70c13e-a434-473b-8667-17b2166f3c7d}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="include\kiero\minhook">
+      <UniqueIdentifier>{0b4da75c-e361-4e51-96d1-1f7d56947a09}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="include\kiero\minhook\include">
+      <UniqueIdentifier>{f4994d55-3431-49e1-a9ce-e53dfd395923}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="include\kiero\minhook\src">
+      <UniqueIdentifier>{66123597-eeae-41a7-8c2c-56968416dcf8}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="include\kiero\minhook\src\hde">
+      <UniqueIdentifier>{81c5c07a-0588-4cd7-84bd-a4ae4201ec77}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+  <ItemGroup>
+    <ClCompile Include="dllmain.cpp">
+      <Filter>Pliki źródłowe</Filter>
+    </ClCompile>
+    <ClCompile Include="include\imgui_hook.cpp">
+      <Filter>include</Filter>
+    </ClCompile>
+    <ClCompile Include="include\kiero\kiero.cpp">
+      <Filter>include\kiero</Filter>
+    </ClCompile>
+    <ClCompile Include="include\imgui\imgui.cpp">
+      <Filter>include\imgui</Filter>
+    </ClCompile>
+    <ClCompile Include="include\imgui\imgui_demo.cpp">
+      <Filter>include\imgui</Filter>
+    </ClCompile>
+    <ClCompile Include="include\imgui\imgui_draw.cpp">
+      <Filter>include\imgui</Filter>
+    </ClCompile>
+    <ClCompile Include="include\imgui\imgui_impl_opengl2.cpp">
+      <Filter>include\imgui</Filter>
+    </ClCompile>
+    <ClCompile Include="include\imgui\imgui_impl_win32.cpp">
+      <Filter>include\imgui</Filter>
+    </ClCompile>
+    <ClCompile Include="include\imgui\imgui_tables.cpp">
+      <Filter>include\imgui</Filter>
+    </ClCompile>
+    <ClCompile Include="include\imgui\imgui_widgets.cpp">
+      <Filter>include\imgui</Filter>
+    </ClCompile>
+    <ClCompile Include="include\kiero\minhook\src\buffer.c">
+      <Filter>include\kiero\minhook\src</Filter>
+    </ClCompile>
+    <ClCompile Include="include\kiero\minhook\src\hook.c">
+      <Filter>include\kiero\minhook\src</Filter>
+    </ClCompile>
+    <ClCompile Include="include\kiero\minhook\src\trampoline.c">
+      <Filter>include\kiero\minhook\src</Filter>
+    </ClCompile>
+    <ClCompile Include="include\kiero\minhook\src\hde\hde32.c">
+      <Filter>include\kiero\minhook\src\hde</Filter>
+    </ClCompile>
+    <ClCompile Include="include\kiero\minhook\src\hde\hde64.c">
+      <Filter>include\kiero\minhook\src\hde</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="include\imgui_hook.h">
+      <Filter>include</Filter>
+    </ClInclude>
+    <ClInclude Include="include\kiero\kiero.h">
+      <Filter>include\kiero</Filter>
+    </ClInclude>
+    <ClInclude Include="include\imgui\imconfig.h">
+      <Filter>include\imgui</Filter>
+    </ClInclude>
+    <ClInclude Include="include\imgui\imgui.h">
+      <Filter>include\imgui</Filter>
+    </ClInclude>
+    <ClInclude Include="include\imgui\imgui_impl_opengl2.h">
+      <Filter>include\imgui</Filter>
+    </ClInclude>
+    <ClInclude Include="include\imgui\imgui_impl_win32.h">
+      <Filter>include\imgui</Filter>
+    </ClInclude>
+    <ClInclude Include="include\imgui\imgui_internal.h">
+      <Filter>include\imgui</Filter>
+    </ClInclude>
+    <ClInclude Include="include\imgui\imstb_rectpack.h">
+      <Filter>include\imgui</Filter>
+    </ClInclude>
+    <ClInclude Include="include\imgui\imstb_textedit.h">
+      <Filter>include\imgui</Filter>
+    </ClInclude>
+    <ClInclude Include="include\imgui\imstb_truetype.h">
+      <Filter>include\imgui</Filter>
+    </ClInclude>
+    <ClInclude Include="include\kiero\minhook\src\buffer.h">
+      <Filter>include\kiero\minhook\src</Filter>
+    </ClInclude>
+    <ClInclude Include="include\kiero\minhook\src\trampoline.h">
+      <Filter>include\kiero\minhook\src</Filter>
+    </ClInclude>
+    <ClInclude Include="include\kiero\minhook\src\hde\hde32.h">
+      <Filter>include\kiero\minhook\src\hde</Filter>
+    </ClInclude>
+    <ClInclude Include="include\kiero\minhook\src\hde\hde64.h">
+      <Filter>include\kiero\minhook\src\hde</Filter>
+    </ClInclude>
+    <ClInclude Include="include\kiero\minhook\src\hde\pstdint.h">
+      <Filter>include\kiero\minhook\src\hde</Filter>
+    </ClInclude>
+    <ClInclude Include="include\kiero\minhook\src\hde\table32.h">
+      <Filter>include\kiero\minhook\src\hde</Filter>
+    </ClInclude>
+    <ClInclude Include="include\kiero\minhook\src\hde\table64.h">
+      <Filter>include\kiero\minhook\src\hde</Filter>
+    </ClInclude>
+    <ClInclude Include="include\kiero\minhook\include\MinHook.h">
+      <Filter>include\kiero\minhook\include</Filter>
+    </ClInclude>
+  </ItemGroup>
+</Project>

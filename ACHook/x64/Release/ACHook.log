@@ -1,0 +1,42 @@
+﻿  dllmain.cpp
+C:\Users\admin\source\repos\ACHook\ACHook\dllmain.cpp(9,20): warning C4311: "typ rzutowania": obcięcie wskaźnika z "HMODULE" do "DWORD"
+C:\Users\admin\source\repos\ACHook\ACHook\dllmain.cpp(9,20): warning C4302: "typ rzutowania": obcięcie z "HMODULE" do "DWORD"
+C:\Users\admin\source\repos\ACHook\ACHook\dllmain.cpp(15,11): warning C4312: "typ rzutowania": konwersja z "DWORD" na "DWORD *" jest większej wielkości
+C:\Users\admin\source\repos\ACHook\ACHook\dllmain.cpp(89,41): warning C4244: "=": konwersja z "double" do "float", możliwa utrata danych
+C:\Users\admin\source\repos\ACHook\ACHook\dllmain.cpp(90,43): warning C4244: "=": konwersja z "double" do "float", możliwa utrata danych
+C:\Users\admin\source\repos\ACHook\ACHook\dllmain.cpp(205,34): warning C4312: "typ rzutowania": konwersja z "DWORD" na "LPVOID" jest większej wielkości
+C:\Users\admin\source\repos\ACHook\ACHook\dllmain.cpp(210,36): warning C4312: "typ rzutowania": konwersja z "DWORD" na "LPVOID" jest większej wielkości
+C:\Users\admin\source\repos\ACHook\ACHook\dllmain.cpp(211,30): warning C4312: "typ rzutowania": konwersja z "DWORD" na "LPVOID" jest większej wielkości
+C:\Users\admin\source\repos\ACHook\ACHook\dllmain.cpp(215,34): warning C4312: "typ rzutowania": konwersja z "DWORD" na "LPVOID" jest większej wielkości
+C:\Users\admin\source\repos\ACHook\ACHook\dllmain.cpp(237,32): warning C4312: "reinterpret_cast": konwersja z "unsigned long" na "DWORD *" jest większej wielkości
+C:\Users\admin\source\repos\ACHook\ACHook\dllmain.cpp(240,24): warning C4312: "reinterpret_cast": konwersja z "DWORD" na "BYTE *" jest większej wielkości
+C:\Users\admin\source\repos\ACHook\ACHook\dllmain.cpp(299,10): warning C4305: "inicjowanie": obcięcie z "double" do "float"
+C:\Users\admin\source\repos\ACHook\ACHook\dllmain.cpp(393,9): warning C4005: "min": ponowna definicja makra
+C:\Users\admin\source\repos\ACHook\ACHook\dllmain.cpp(455,13): warning C4552: „+”: Wynik wyrażenia nie jest używany
+C:\Users\admin\source\repos\ACHook\ACHook\dllmain.cpp(595,15): warning C4312: "typ rzutowania": konwersja z "DWORD" na "int *" jest większej wielkości
+C:\Users\admin\source\repos\ACHook\ACHook\dllmain.cpp(596,16): warning C4312: "typ rzutowania": konwersja z "DWORD" na "int *" jest większej wielkości
+C:\Users\admin\source\repos\ACHook\ACHook\dllmain.cpp(609,17): warning C4312: "typ rzutowania": konwersja z "DWORD" na "int *" jest większej wielkości
+C:\Users\admin\source\repos\ACHook\ACHook\dllmain.cpp(613,20): warning C4312: "reinterpret_cast": konwersja z "DWORD" na "DWORD *" jest większej wielkości
+C:\Users\admin\source\repos\ACHook\ACHook\dllmain.cpp(614,23): warning C4312: "reinterpret_cast": konwersja z "DWORD" na "BYTE *" jest większej wielkości
+  imgui.cpp
+  imgui_demo.cpp
+  imgui_draw.cpp
+  imgui_impl_opengl2.cpp
+  imgui_impl_win32.cpp
+  imgui_tables.cpp
+  imgui_widgets.cpp
+  imgui_hook.cpp
+C:\Users\admin\source\repos\ACHook\ACHook\include\imgui_hook.cpp(42,9): warning C4003: zbyt mało argumentów wywołania makra podobnego do funkcji „_VOID_1”
+C:\Users\admin\source\repos\ACHook\ACHook\include\imgui_hook.cpp(115,7): warning C4003: zbyt mało argumentów wywołania makra podobnego do funkcji „_VOID_2”
+C:\Users\admin\source\repos\ACHook\ACHook\include\imgui_hook.cpp(115,7): warning C4003: zbyt mało argumentów wywołania makra podobnego do funkcji „_VOID_1”
+C:\Users\admin\source\repos\ACHook\ACHook\include\imgui_hook.cpp(116,7): warning C4003: zbyt mało argumentów wywołania makra podobnego do funkcji „_VOID_1”
+C:\Users\admin\source\repos\ACHook\ACHook\include\imgui_hook.cpp(122,28): warning C4805: "&=": niebezpieczne połączenie typu "bool" oraz typu "BOOL" w operacji
+C:\Users\admin\source\repos\ACHook\ACHook\include\imgui_hook.cpp(122,28): warning C4805: "&": niebezpieczne połączenie typu "bool" oraz typu "BOOL" w operacji
+C:\Users\admin\source\repos\ACHook\ACHook\include\imgui_hook.cpp(128,28): warning C4805: "&=": niebezpieczne połączenie typu "bool" oraz typu "BOOL" w operacji
+C:\Users\admin\source\repos\ACHook\ACHook\include\imgui_hook.cpp(128,28): warning C4805: "&": niebezpieczne połączenie typu "bool" oraz typu "BOOL" w operacji
+C:\Users\admin\source\repos\ACHook\ACHook\include\imgui_hook.cpp(163,7): warning C4003: zbyt mało argumentów wywołania makra podobnego do funkcji „_VOID_1”
+  kiero.cpp
+  buffer.c
+  hde32.c
+  hde64.c
+  hook.c
