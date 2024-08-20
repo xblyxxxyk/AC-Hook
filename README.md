@@ -18,7 +18,13 @@ Use Process Hacker to inject, compile Release x86
 tbd:
 
 [+] Add Aimbot Smoothing
-[+] Fix Some players not being rendered
+
+
+[+] Fix Some players not being rendered on ESP
+
+
 [+] Improve loops performance
+
+
 [+] Code is written mixedcase. You can change it to camel/pascal if that is a problem.
 
